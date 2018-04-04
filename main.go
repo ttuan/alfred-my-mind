@@ -56,8 +56,8 @@ func run() {
 	}
 
 	switch cmd {
-	case searchWikiCmd.FullCommand():
-		err = doSearchWiki()
+	// case searchWikiCmd.FullCommand():
+	// 	err = doSearchWiki()
 	case updateCmd.FullCommand():
 		err = doUpdate()
 	default:

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "uid": "Secret garden",
+      "title": "Secret garden",
+      "autocomplete": "Secret garden",
+      "arg": "http://www.nhaccuatui.com/playlist/secret-garden-dang-cap-nhat.RMmjlp8PQeey.html"
+    },
+    {
+      "uid": "Nhạc hay",
+      "title": "Nhạc hay",
+      "autocomplete": "Nhạc hay",
+      "arg": "https://www.youtube.com/watch?v=r-TpssSZOj4&amp;list=PL3MS6zVmEZLU54mJ9liDT5khN4Jt2npZn"
+    },
+    {
+      "uid": "nhaccuatui",
+      "title": "nhaccuatui",
+      "autocomplete": "nhaccuatui",
+      "arg": "http://www.nhaccuatui.com/user/atamachinkaracoi.html"
+    },
+    {
+      "uid": "Nhạc Trung",
+      "title": "Nhạc Trung",
+      "autocomplete": "Nhạc Trung",
+      "arg": "http://www.nhaccuatui.com/playlist/nhac-trung-dang-cap-nhat.OI7DAv6WSZv9.html"
+    },
+    {
+      "uid": "Nhạc phim",
+      "title": "Nhạc phim",
+      "autocomplete": "Nhạc phim",
+      "arg": "http://www.nhaccuatui.com/playlist/nhac-phim-dang-cap-nhat.LjvXfyXHoFW7.html"
+    },
+    {
+      "uid": "Nhạc Anh",
+      "title": "Nhạc Anh",
+      "autocomplete": "Nhạc Anh",
+      "arg": "http://www.nhaccuatui.com/playlist/nhac-anh-dang-cap-nhat.iDuNwSqmpgDE.html"
+    },
+    {
+      "uid": "Nhạc hay",
+      "title": "Nhạc hay",
+      "autocomplete": "Nhạc hay",
+      "arg": "http://www.nhaccuatui.com/playlist/nhac-hay-dang-cap-nhat.CgaigJB6TUIn.html"
+    }
+  ]
+}

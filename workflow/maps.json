@@ -1,5 +1,35 @@
 [
   {
+    "name": "articles",
+    "map": "2yWbA4xiyS2AyrJk5UpYcu27DQJfP2UEPAJ1U6BW"
+  },
+  {
+    "name": "films",
+    "map": "X7BmDFA2K6pNPHpjPYCLYmyB2sZ4JMtomyo4tfFB"
+  },
+  {
+    "name": "images",
+    "map": "txpNRAbnSwVPzUevjsSxj8fkqbQpXXdRW4yqKzTY"
+  },
+  {
+    "name": "music",
+    "map": "GHzCzHEmKZHXypetpT9y7vRqeDMKMBhxf69bja2r"
+  },
+  {
+    "name": "reading",
+    "map": "wW5eRstTkxZsqwT7afWSHkSWMN5VpUU6J5cR39ms"
+  },
+  {
+    "name": "videos",
+    "map": "PuMmLJVop7QTyqpwBH2uJyiyyZ6xQi3hLFFtC5P4"
+  },
+  {
+    "name": "personal",
+    "map": "fZeFRcz6U6FyGe9xawiSNgJi1a5v3V9q1SpW1HYk"
+  },
+
+
+  {
     "name": "nblogs",
     "map": "ugGHypBdhvNnPJEr4haw8z8x7pyPxdhbLVscfbqu"
   },
@@ -8,7 +38,7 @@
     "map": "EGK6syLwZq9FqwB1hLZDrk2UR2Vxqxk8VoGnJkXz"
   },
   {
-    "name": "courses",
+    "name": "ncourses",
     "map": "f2sAoGJN9psymLPwcM2ohf1KwaH3rqxDBtB4psR4"
   },
   {
@@ -20,7 +50,7 @@
     "map": "qVGMak6nNCFxh5YxUGR3z6RKrmVNP6sr1Pk721FB"
   },
   {
-    "name": "research-papers",
+    "name": "nresearch-papers",
     "map": "4Ybz71D27gsfq7bPqXp5Txg1uJzQHU5i9YxJoRyY"
   },
   {
@@ -32,7 +62,7 @@
     "map": "3G7agRfrg9RDcw66xYyKh8z2Xs7B6WFo8LzSpLzk"
   },
   {
-    "name": "alfred",
+    "name": "nalfred",
     "map": "vwSMieK4ASJmkUqVqBxZg4Z9CcEvD4UyNtQz9EDe"
   },
   {

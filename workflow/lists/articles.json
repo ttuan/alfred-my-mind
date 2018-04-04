@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "uid": "p. How I met Vim",
+      "title": "p. How I met Vim",
+      "autocomplete": "p. How I met Vim",
+      "arg": "https://ttuan.github.io/2016/07/26/mouse-free-how-i-met-Vim/"
+    },
+    {
+      "uid": "p. How to boost your Vim productivity",
+      "title": "p. How to boost your Vim productivity",
+      "autocomplete": "p. How to boost your Vim productivity",
+      "arg": "https://ttuan.github.io/2017/09/20/How-to-boost-your-vim-productivity/"
+    },
+    {
+      "uid": "p. Tip, tricks khi làm việc với Vim và Tmux",
+      "title": "p. Tip, tricks khi làm việc với Vim và Tmux",
+      "autocomplete": "p. Tip, tricks khi làm việc với Vim và Tmux",
+      "arg": "https://ttuan.github.io/2017/10/16/Tips-tricks-khi-su-dung-Vim-va-Tmux/"
+    },
+    {
+      "uid": "p. Một vài kinh nghiệm khi làm việc với Vim",
+      "title": "p. Một vài kinh nghiệm khi làm việc với Vim",
+      "autocomplete": "p. Một vài kinh nghiệm khi làm việc với Vim",
+      "arg": "https://ttuan.github.io/2017/10/18/kinh-nghiem-khi-lam-viec-voi-Vim/"
+    },
+    {
+      "uid": "p. Duyệt web cùng Vimperator",
+      "title": "p. Duyệt web cùng Vimperator",
+      "autocomplete": "p. Duyệt web cùng Vimperator",
+      "arg": "https://ttuan.github.io/2017/03/28/vimperator-for-better-web-experience/"
+    },
+    {
+      "uid": "p. Làm thế nào để tăng tốc độ load một trang web",
+      "title": "p. Làm thế nào để tăng tốc độ load một trang web",
+      "autocomplete": "p. Làm thế nào để tăng tốc độ load một trang web",
+      "arg": "https://ttuan.github.io/2017/10/15/Optimize-your-Rails-applicaiton/"
+    },
+    {
+      "uid": "p. 5 ways to write flaky test",
+      "title": "p. 5 ways to write flaky test",
+      "autocomplete": "p. 5 ways to write flaky test",
+      "arg": "https://ttuan.github.io/2017/05/30/5-cach-de-viet-flaky-test/"
+    },
+    {
+      "uid": "p. Tracking SQL query in Rails",
+      "title": "p. Tracking SQL query in Rails",
+      "autocomplete": "p. Tracking SQL query in Rails",
+      "arg": "https://ttuan.github.io/2017/05/30/Tracking-SQL-queries-in-Rails/"
+    },
+    {
+      "uid": "p. 5 ways to refactor Rails views",
+      "title": "p. 5 ways to refactor Rails views",
+      "autocomplete": "p. 5 ways to refactor Rails views",
+      "arg": "https://ttuan.github.io/2017/02/20/refactor-rails-views/"
+    },
+    {
+      "uid": "p. Create offline page for Ruby on Rails app",
+      "title": "p. Create offline page for Ruby on Rails app",
+      "autocomplete": "p. Create offline page for Ruby on Rails app",
+      "arg": "https://ttuan.github.io/2017/01/20/become-a-rubyist-create-offline-page-for-rails-application/"
+    },
+    {
+      "uid": "p. Guide to Rails Caching",
+      "title": "p. Guide to Rails Caching",
+      "autocomplete": "p. Guide to Rails Caching",
+      "arg": "https://ttuan.github.io/2017/12/15/Guide-to-Rails-Caching/"
+    },
+    {
+      "uid": "p. Dockerizing your Rails application",
+      "title": "p. Dockerizing your Rails application",
+      "autocomplete": "p. Dockerizing your Rails application",
+      "arg": "https://ttuan.github.io/2017/10/15/Dockerizing-Rails-application/"
+    },
+    {
+      "uid": "p. Ruby exceptions",
+      "title": "p. Ruby exceptions",
+      "autocomplete": "p. Ruby exceptions",
+      "arg": "https://ttuan.github.io/2017/06/30/Ruby-exceptions/"
+    },
+    {
+      "uid": "p. Ignore Nill exception in Ruby on Rails",
+      "title": "p. Ignore Nill exception in Ruby on Rails",
+      "autocomplete": "p. Ignore Nill exception in Ruby on Rails",
+      "arg": "https://ttuan.github.io/2016/11/20/become-a-rubyist-ignore-nil-exception-in-ruby-on-rail/"
+    },
+    {
+      "uid": "p. Getting started with Dotfiles",
+      "title": "p. Getting started with Dotfiles",
+      "autocomplete": "p. Getting started with Dotfiles",
+      "arg": "https://ttuan.github.io/2016/12/25/become-a-superuser-getting-started-with-dotfiles/"
+    },
+    {
+      "uid": "p. Some tricks to google quickly",
+      "title": "p. Some tricks to google quickly",
+      "autocomplete": "p. Some tricks to google quickly",
+      "arg": "https://ttuan.github.io/2016/10/25/easy-life-some-google-tricks-to-google-quickly/"
+    },
+    {
+      "uid": "p. Awesome Alfred",
+      "title": "p. Awesome Alfred",
+      "autocomplete": "p. Awesome Alfred",
+      "arg": "https://ttuan.github.io/2017/10/30/Awesome-Alfred/"
+    },
+    {
+      "uid": "p. Machine Learning - The First Step",
+      "title": "p. Machine Learning - The First Step",
+      "autocomplete": "p. Machine Learning - The First Step",
+      "arg": "https://ttuan.github.io/2017/03/11/Machine-Learning-The-First-Step/"
+    },
+    {
+      "uid": "How CSS is parsed?",
+      "title": "How CSS is parsed?",
+      "autocomplete": "How CSS is parsed?",
+      "arg": "https://ttuan.github.io/2018/04/04/How-CSS-is-parsed/"
+    },
+    {
+      "uid": "How Google Authenticator Work?",
+      "title": "How Google Authenticator Work?",
+      "autocomplete": "How Google Authenticator Work?",
+      "arg": "https://ttuan.github.io/2018/03/31/How-Google-Authenticator-Works/"
+    },
+    {
+      "uid": "o. Tutorial: Decoupling Rails components",
+      "title": "o. Tutorial: Decoupling Rails components",
+      "autocomplete": "o. Tutorial: Decoupling Rails components",
+      "arg": "https://www.toptal.com/ruby-on-rails/decoupling-rails-components"
+    },
+    {
+      "uid": "o. 50+ Ruby on Rails interview questions",
+      "title": "o. 50+ Ruby on Rails interview questions",
+      "autocomplete": "o. 50+ Ruby on Rails interview questions",
+      "arg": "https://rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer"
+    },
+    {
+      "uid": "o. How Rails sessions work",
+      "title": "o. How Rails sessions work",
+      "autocomplete": "o. How Rails sessions work",
+      "arg": "http://www.justinweiss.com/articles/how-rails-sessions-work/"
+    },
+    {
+      "uid": "o. Best ROR refactoring talk",
+      "title": "o. Best ROR refactoring talk",
+      "autocomplete": "o. Best ROR refactoring talk",
+      "arg": "https://infinum.co/the-capsized-eight/best-ruby-on-rails-refactoring-talks"
+    },
+    {
+      "uid": "Happy Programmer",
+      "title": "Happy Programmer",
+      "autocomplete": "Happy Programmer",
+      "arg": "https://kipalog.com/posts/Happy-Programmer"
+    },
+    {
+      "uid": "Những thói quen xấu kìm hãm sự phát triển của 1 lập trình viên",
+      "title": "Những thói quen xấu kìm hãm sự phát triển của 1 lập trình viên",
+      "autocomplete": "Những thói quen xấu kìm hãm sự phát triển của 1 lập trình viên",
+      "arg": "https://viblo.asia/p/nhung-thoi-quen-xau-lam-kim-ham-su-tien-bo-cua-cac-lap-trinh-vien-moi-bat-dau-lam-chua-lau-ma-toi-da-nhan-ra-trong-khi-kem-cap-ho-Zzb7vDnMjKdP"
+    }
+  ]
+}
