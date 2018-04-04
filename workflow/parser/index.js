@@ -69,7 +69,7 @@ const parseNode = node => {
   };
   const nodes = [parsedNode];
 
-  parseSubnodes(node.nodes).forEach(subnode => nodes.push(subnode));
+  parseSubnodes(node.subnodes).forEach(subnode => nodes.push(subnode));
   return nodes;
 };
 
@@ -95,8 +95,8 @@ walkDir(input, (map, filename) => {
   // converting IDs to node title on connections.
   parsedMap.items = [];
 
-  map.nodes.forEach(node =>
-    parseNode(node).forEach(parsedNode => parsedMap.items.push(parsedNode))
+  map.mindMaps.forEach(node =>
+    parseNode(node.mainNode).forEach(parsedNode => parsedMap.items.push(parsedNode))
   );
 
   parsedMap.items = parsedMap.items.filter(item => !!item.arg);

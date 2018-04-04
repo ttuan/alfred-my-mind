@@ -21,7 +21,7 @@ var (
 
 	query string
 
-	repo = "nikitavoloboev/alfred-my-mind"
+	repo = "ttuan/alfred-my-mind"
 
 	// Workflow stuff
 	wf *aw.Workflow

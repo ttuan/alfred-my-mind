@@ -7,16 +7,16 @@
       "arg": "https://www.explainshell.com/explain/ls"
     },
     {
+      "uid": "sudo",
+      "title": "sudo",
+      "autocomplete": "sudo",
+      "arg": "https://www.explainshell.com/explain/sudo"
+    },
+    {
       "uid": "echo",
       "title": "echo",
       "autocomplete": "echo",
       "arg": "https://www.explainshell.com/explain/echo"
-    },
-    {
-      "uid": "cat",
-      "title": "cat",
-      "autocomplete": "cat",
-      "arg": "https://www.explainshell.com/explain/cat"
     },
     {
       "uid": "mv",
@@ -35,12 +35,6 @@
       "title": "sed",
       "autocomplete": "sed",
       "arg": "https://www.explainshell.com/explain/sed"
-    },
-    {
-      "uid": "intro to sed",
-      "title": "intro to sed",
-      "autocomplete": "intro to sed",
-      "arg": "http://www.grymoire.com/Unix/Sed.html"
     },
     {
       "uid": "wc",
@@ -235,34 +229,10 @@
       "arg": "https://beyondgrep.com/documentation/"
     },
     {
-      "uid": "yarn",
-      "title": "yarn",
-      "autocomplete": "yarn",
-      "arg": "https://yarnpkg.com/lang/en/docs/"
-    },
-    {
-      "uid": "npm",
-      "title": "npm",
-      "autocomplete": "npm",
-      "arg": "http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html"
-    },
-    {
-      "uid": "brew",
-      "title": "brew",
-      "autocomplete": "brew",
-      "arg": "http://docs.brew.sh/"
-    },
-    {
-      "uid": "hugo",
-      "title": "hugo",
-      "autocomplete": "hugo",
-      "arg": "https://gohugo.io/overview/introduction/"
-    },
-    {
-      "uid": "jekyll",
-      "title": "jekyll",
-      "autocomplete": "jekyll",
-      "arg": "https://jekyllrb.com/docs/home/"
+      "uid": "du",
+      "title": "du",
+      "autocomplete": "du",
+      "arg": "https://www.explainshell.com/explain/du"
     },
     {
       "uid": "git  🗺️",
@@ -298,12 +268,14 @@
       "uid": "curl",
       "title": "curl",
       "autocomplete": "curl",
+      "subtitle": "transfer data, supports various protocols",
       "arg": "https://www.explainshell.com/explain/curl"
     },
     {
-      "uid": "reflex",
-      "title": "reflex",
-      "autocomplete": "reflex",
+      "uid": "reflex  🐙",
+      "title": "reflex  🐙",
+      "autocomplete": "reflex  🐙",
+      "subtitle": "linting and fixing of code",
       "arg": "https://github.com/cespare/reflex"
     },
     {
@@ -323,6 +295,13 @@
       "title": "gotty",
       "autocomplete": "gotty",
       "arg": "https://github.com/yudai/gotty"
+    },
+    {
+      "uid": "tmux  🗺️",
+      "title": "tmux  🗺️",
+      "autocomplete": "tmux  🗺️",
+      "subtitle": "terminal multiplexer",
+      "arg": "https://my.mindnode.com/mk1hLazUx97D8tymkePWZPuwhY2LCFDXTN4vF5RV"
     },
     {
       "uid": "jq",
@@ -354,6 +333,207 @@
       "title": "warp  🐙",
       "autocomplete": "warp  🐙",
       "arg": "https://github.com/spolu/warp?attempt=8"
+    },
+    {
+      "uid": "ripgrep  🐙",
+      "title": "ripgrep  🐙",
+      "autocomplete": "ripgrep  🐙",
+      "subtitle": "search text for patterns really fast",
+      "arg": "https://github.com/BurntSushi/ripgrep"
+    },
+    {
+      "uid": "fzf  🐙",
+      "title": "fzf  🐙",
+      "autocomplete": "fzf  🐙",
+      "arg": "https://github.com/junegunn/fzf"
+    },
+    {
+      "uid": "thefuck  🐙",
+      "title": "thefuck  🐙",
+      "autocomplete": "thefuck  🐙",
+      "subtitle": "corrects your previous console command",
+      "arg": "https://github.com/nvbn/thefuck"
+    },
+    {
+      "uid": "ccat  🐙",
+      "title": "ccat  🐙",
+      "autocomplete": "ccat  🐙",
+      "subtitle": "cat command with colours",
+      "arg": "https://github.com/jingweno/ccat"
+    },
+    {
+      "uid": "youtube-dl  🐙",
+      "title": "youtube-dl  🐙",
+      "autocomplete": "youtube-dl  🐙",
+      "subtitle": "download videos from youtube and other video sites",
+      "arg": "https://github.com/rg3/youtube-dl"
+    },
+    {
+      "uid": "pandoc  🐙",
+      "title": "pandoc  🐙",
+      "autocomplete": "pandoc  🐙",
+      "subtitle": "universal markup converter",
+      "arg": "https://github.com/jgm/pandoc"
+    },
+    {
+      "uid": "trash  🐙",
+      "title": "trash  🐙",
+      "autocomplete": "trash  🐙",
+      "subtitle": "move files and folders to the trash",
+      "arg": "https://github.com/sindresorhus/trash"
+    },
+    {
+      "uid": "vtop  🐙",
+      "title": "vtop  🐙",
+      "autocomplete": "vtop  🐙",
+      "subtitle": "graphical activity monitor",
+      "arg": "https://github.com/MrRio/vtop"
+    },
+    {
+      "uid": "howdoi  🐙",
+      "title": "howdoi  🐙",
+      "autocomplete": "howdoi  🐙",
+      "subtitle": "instant coding answers",
+      "arg": "https://github.com/gleitz/howdoi"
+    },
+    {
+      "uid": "asciinema  🐙",
+      "title": "asciinema  🐙",
+      "autocomplete": "asciinema  🐙",
+      "subtitle": "terminal session recorder",
+      "arg": "https://github.com/asciinema/asciinema"
+    },
+    {
+      "uid": "tldr  🐙",
+      "title": "tldr  🐙",
+      "autocomplete": "tldr  🐙",
+      "subtitle": "simplified and community-driven man pages",
+      "arg": "https://github.com/tldr-pages/tldr"
+    },
+    {
+      "uid": "imgcat  🐙",
+      "title": "imgcat  🐙",
+      "autocomplete": "imgcat  🐙",
+      "subtitle": "like cat but for images",
+      "arg": "https://github.com/eddieantonio/imgcat"
+    },
+    {
+      "uid": "screenfetch  🐙",
+      "title": "screenfetch  🐙",
+      "autocomplete": "screenfetch  🐙",
+      "subtitle": "fetches system/theme information in terminal",
+      "arg": "https://github.com/KittyKatt/screenFetch"
+    },
+    {
+      "uid": "coala  🐙",
+      "title": "coala  🐙",
+      "autocomplete": "coala  🐙",
+      "subtitle": "linting and fixing of code",
+      "arg": "https://github.com/coala/coala"
+    },
+    {
+      "uid": "create react app  🐙",
+      "title": "create react app  🐙",
+      "autocomplete": "create react app  🐙",
+      "subtitle": "create React apps with no build configuration",
+      "arg": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+      "uid": "now cli  🐙",
+      "title": "now cli  🐙",
+      "autocomplete": "now cli  🐙",
+      "subtitle": "realtime global deployments served over HTTP/2",
+      "arg": "https://github.com/zeit/now-cli"
+    },
+    {
+      "uid": "license up  🐙",
+      "title": "license up  🐙",
+      "autocomplete": "license up  🐙",
+      "subtitle": "create a license quickly for a given name",
+      "arg": "https://github.com/nikitavoloboev/license-up"
+    },
+    {
+      "uid": "z  🐙",
+      "title": "z  🐙",
+      "autocomplete": "z  🐙",
+      "subtitle": "jump around your file system",
+      "arg": "https://github.com/rupa/z"
+    },
+    {
+      "uid": "m-cli  🐙",
+      "title": "m-cli  🐙",
+      "autocomplete": "m-cli  🐙",
+      "subtitle": "useful utils for macOS",
+      "arg": "https://github.com/rgcr/m-cli"
+    },
+    {
+      "uid": "mas  🐙",
+      "title": "mas  🐙",
+      "autocomplete": "mas  🐙",
+      "subtitle": "cli for mac app store",
+      "arg": "https://github.com/mas-cli/mas"
+    },
+    {
+      "uid": "tag  🐙",
+      "title": "tag  🐙",
+      "autocomplete": "tag  🐙",
+      "arg": "https://github.com/jdberry/tag/"
+    },
+    {
+      "uid": "osx utils",
+      "title": "osx utils",
+      "autocomplete": "osx utils",
+      "arg": "https://libraries.io/homebrew/osxutil"
+    },
+    {
+      "uid": "yarn",
+      "title": "yarn",
+      "autocomplete": "yarn",
+      "subtitle": "fast, reliable, and secure dependency management for javascript",
+      "arg": "https://yarnpkg.com/lang/en/docs/"
+    },
+    {
+      "uid": "npm",
+      "title": "npm",
+      "autocomplete": "npm",
+      "arg": "http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html"
+    },
+    {
+      "uid": "brew",
+      "title": "brew",
+      "autocomplete": "brew",
+      "arg": "http://docs.brew.sh/"
+    },
+    {
+      "uid": "pacman",
+      "title": "pacman",
+      "autocomplete": "pacman",
+      "arg": "https://wiki.archlinux.org/index.php/pacman"
+    },
+    {
+      "uid": "yaourt",
+      "title": "yaourt",
+      "autocomplete": "yaourt",
+      "arg": "https://archlinux.fr/yaourt-en"
+    },
+    {
+      "uid": "nix",
+      "title": "nix",
+      "autocomplete": "nix",
+      "arg": "https://nixos.org/nix/"
+    },
+    {
+      "uid": "hugo",
+      "title": "hugo",
+      "autocomplete": "hugo",
+      "subtitle": "fast and flexible static site generator",
+      "arg": "https://gohugo.io/commands/"
+    },
+    {
+      "uid": "jekyll",
+      "title": "jekyll",
+      "autocomplete": "jekyll",
+      "arg": "https://jekyllrb.com/docs/home/"
     }
   ]
 }
