@@ -24,18 +24,26 @@
     "map": "PuMmLJVop7QTyqpwBH2uJyiyyZ6xQi3hLFFtC5P4"
   },
   {
+    "name": "games",
+    "map": "uC7gFfnEBHYDm31mY7DWWXgouzosqhtVFVU1e6cx"
+  },
+  {
+    "name": "behind-the-scences",
+    "map": "At2BV7WsgxMoVFRE64QQyENtexA3oYTZdopiX3xq"
+  },
+  {
     "name": "personal",
     "map": "fZeFRcz6U6FyGe9xawiSNgJi1a5v3V9q1SpW1HYk"
+  },
+  {
+    "name": "workflows",
+    "map": "i1yyLzLAqGXX2QPfGnzL2ZVbmFY1SsXpjsCdq5sP"
   },
 
 
   {
     "name": "nblogs",
     "map": "ugGHypBdhvNnPJEr4haw8z8x7pyPxdhbLVscfbqu"
-  },
-  {
-    "name": "explain-shell",
-    "map": "EGK6syLwZq9FqwB1hLZDrk2UR2Vxqxk8VoGnJkXz"
   },
   {
     "name": "ncourses",

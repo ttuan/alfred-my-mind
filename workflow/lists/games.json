@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "uid": "23Creative_twitch",
+      "title": "23Creative_twitch",
+      "autocomplete": "23Creative_twitch",
+      "arg": "https://www.twitch.tv/23creativevn/videos/all"
+    },
+    {
+      "uid": "23Creative youtube",
+      "title": "23Creative youtube",
+      "autocomplete": "23Creative youtube",
+      "arg": "https://www.youtube.com/channel/UCj1P7chdcRFZioj7XW2d7mA"
+    },
+    {
+      "uid": "Mimosa Chu",
+      "title": "Mimosa Chu",
+      "autocomplete": "Mimosa Chu",
+      "arg": "https://www.youtube.com/channel/UCG6sqUD_j-j9Tks8IHFuzUw"
+    },
+    {
+      "uid": "Matrix.Heasygame",
+      "title": "Matrix.Heasygame",
+      "autocomplete": "Matrix.Heasygame",
+      "arg": "http://matrix.heasygame.com/"
+    }
+  ]
+}

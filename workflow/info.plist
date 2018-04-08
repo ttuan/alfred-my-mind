@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>nikivi.mind</string>
+	<string>natu.mind</string>
 	<key>category</key>
-	<string>Mine</string>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>01EC8E5F-FB95-4935-B116-6EEA6066989F</key>
@@ -949,6 +949,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>E0A34AE5-07C4-4B8D-B623-5FB3FDF1CB6F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>11A13B8F-CCA7-4876-A9D1-9AE32179048D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>F1ED5DA8-9820-408B-954A-B0F4ED5C447F</key>
 		<array>
 			<dict>
@@ -1029,7 +1042,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Nikita Voloboev</string>
+	<string>Nikita Voloboev. Custom by Me =))</string>
 	<key>description</key>
 	<string>Alfred interface to my mind maps and notes</string>
 	<key>disabled</key>
@@ -1041,15 +1054,33 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>triggerid</key>
-				<string>mind</string>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>37</integer>
+				<key>hotmod</key>
+				<integer>1179648</integer>
+				<key>hotstring</key>
+				<string>L</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>FE4970C3-7BD4-462E-BB8E-D6247DB9B99E</string>
+			<string>E0A34AE5-07C4-4B8D-B623-5FB3FDF1CB6F</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1061,7 +1092,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"nExplain shell","arg":"lists\/nexplain-shell.json"},{"title":"nBlogs","arg":"lists\/nblogs.json"},{"title":"nCourses","arg":"lists\/ncourses.json"},{"title":"nResearch papers","arg":"lists\/nresearch-papers.json"},{"title":"macOS apps","arg":"lists\/macos-apps.json"},{"title":"nMovies","arg":"lists\/nmovies.json"},{"title":"nSeries","arg":"lists\/nseries.json"},{"title":"Stack","arg":"lists\/stack.json"},{"title":"Other youtube","arg":"lists\/other-youtube.json"},{"title":"GitHub trending","arg":"lists\/github-trending.json"},{"title":"nKnowledge bases","arg":"lists\/nknowledge-bases.json","subtitle":""},{"title":"nAlfred","arg":"lists\/nalfred.json"},{"title":"nArticles","arg":"lists\/narticles.json"},{"title":"nGithub peple","arg":"lists\/ngithub-users.json"},{"title":"Personal","arg":"lists\/personal.json"},{"title":"Music","arg":"lists\/music.json"},{"title":"Videos","arg":"lists\/videos.json"},{"title":"Films","arg":"lists\/films.json"},{"title":"Articles","arg":"lists\/articles.json"},{"title":"Reading","arg":"lists\/reading.json"},{"title":"Images","arg":"lists\/images.json"}]</string>
+				<string>[{"title":"nExplain shell","arg":"lists\/nexplain-shell.json"},{"title":"nBlogs","arg":"lists\/nblogs.json"},{"title":"nCourses","arg":"lists\/ncourses.json"},{"title":"nResearch papers","arg":"lists\/nresearch-papers.json"},{"title":"macOS apps","arg":"lists\/macos-apps.json"},{"title":"nMovies","arg":"lists\/nmovies.json"},{"title":"nSeries","arg":"lists\/nseries.json"},{"title":"Stack","arg":"lists\/stack.json"},{"title":"Other youtube","arg":"lists\/other-youtube.json"},{"title":"GitHub trending","arg":"lists\/github-trending.json"},{"title":"nKnowledge bases","arg":"lists\/nknowledge-bases.json","subtitle":""},{"title":"nAlfred","arg":"lists\/nalfred.json"},{"title":"nArticles","arg":"lists\/narticles.json"},{"title":"nGithub peple","arg":"lists\/ngithub-users.json"},{"title":"Personal","arg":"lists\/personal.json"},{"title":"Music","arg":"lists\/music.json"},{"title":"Videos","arg":"lists\/videos.json"},{"title":"Films","arg":"lists\/films.json"},{"title":"Articles","arg":"lists\/articles.json"},{"title":"Reading","arg":"lists\/reading.json"},{"title":"Images","arg":"lists\/images.json"},{"title":"Games","arg":"lists\/games.json\n"},{"title":"Behind The Scences","arg":"lists\/behind-the-scences.json\n"},{"title":"WorkFlows","arg":"lists\/workflows.json\n"}]</string>
 				<key>keyword</key>
 				<string>mm</string>
 				<key>runningsubtext</key>
@@ -1224,23 +1255,23 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>36A94F21-C7CF-4B00-A2EA-17D1FE32D81B</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>wiki</string>
+				<string>mind</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>616E11AF-E559-4994-81C4-BCBBBEE85AB1</string>
+			<string>FE4970C3-7BD4-462E-BB8E-D6247DB9B99E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>36A94F21-C7CF-4B00-A2EA-17D1FE32D81B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1394,6 +1425,19 @@
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>D190F492-4144-4D30-B274-61E7F3EB5DF0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>wiki</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>616E11AF-E559-4994-81C4-BCBBBEE85AB1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -3093,9 +3137,9 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>616E11AF-E559-4994-81C4-BCBBBEE85AB1</key>
 		<dict>
 			<key>xpos</key>
-			<integer>30</integer>
+			<integer>10</integer>
 			<key>ypos</key>
-			<integer>180</integer>
+			<integer>320</integer>
 		</dict>
 		<key>62300FC3-1C21-4C66-926A-34B29A90FE51</key>
 		<dict>
@@ -3364,6 +3408,13 @@ Post any issues and feature requests you have there. 💜</string>
 			<key>ypos</key>
 			<integer>2960</integer>
 		</dict>
+		<key>E0A34AE5-07C4-4B8D-B623-5FB3FDF1CB6F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
 		<key>EA65AC0D-8F16-4915-B989-1E40EE20A2FF</key>
 		<dict>
 			<key>note</key>
@@ -3413,14 +3464,14 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>FE4970C3-7BD4-462E-BB8E-D6247DB9B99E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>20</integer>
+			<integer>10</integer>
 			<key>ypos</key>
-			<integer>20</integer>
+			<integer>160</integer>
 		</dict>
 	</dict>
 	<key>version</key>
 	<string>1.1.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev/alfred-my-mind</string>
+	<string>https://github.com/ttuan/alfred-my-mind</string>
 </dict>
 </plist>
